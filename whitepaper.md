@@ -91,3 +91,45 @@ members and civilians worldwide come together as one.
 - Reserve Fund: Locked for 12 months, then released over 24 months
 
 - 
+## Roadmap
+
+### Phase 1: Foundation (Q4 2024)
+- ✓ Token creation and deployment on Solana
+- ✓ Initial whitepaper release
+- Community channel establishment
+  - Official website launch
+  - Social media presence (Twitter, Telegram, Discord)
+- Security audit completion
+- Initial partnership announcements
+
+### Phase 2: Growth (Q1 2025)
+- Exchange listings
+  - DEX listing (Raydium, Serum)
+  - Major CEX listings
+- Military community platform beta launch
+- Start of global marketing campaign
+- Initial military support programs launch
+- Community governance structure implementation
+
+### Phase 3: Expansion (Q2-Q3 2025)
+- Global military partnership program
+  - Veteran organizations collaboration
+  - Military welfare organizations partnership
+- Enhanced platform features
+  - Veterans job board
+  - Military family support network
+- Regional community hubs establishment
+- International military events sponsorship
+
+### Phase 4: Maturity (Q4 2025 and Beyond)
+- Global military support ecosystem completion
+- Advanced platform features rollout
+- Major institutional partnerships
+- Cross-chain expansion consideration
+- International military conference organization
+
+### Long-term Vision
+- Become the leading blockchain platform for military communities
+- Establish global standard for veteran support programs
+- Create sustainable ecosystem for military families
+- Bridge military communities worldwide through blockchain
