@@ -133,3 +133,31 @@ members and civilians worldwide come together as one.
 - Establish global standard for veteran support programs
 - Create sustainable ecosystem for military families
 - Bridge military communities worldwide through blockchain
+
+## Legal Disclaimer
+
+This whitepaper is for information purposes only. YONI Token does not guarantee the accuracy of or the conclusions reached in this whitepaper, and this whitepaper is provided "as is". YONI Token does not make and expressly disclaims all representations and warranties, express, implied, statutory or otherwise, whatsoever, including, but not limited to:
+
+- warranties of merchantability, fitness for a particular purpose, suitability, usage, title or non-infringement
+- that the contents of this whitepaper are free from error
+- that such contents will not infringe third-party rights
+
+YONI Token and its affiliates shall have no liability for damages of any kind arising out of the use, reference to, or reliance on this whitepaper or any of the content contained herein, even if advised of the possibility of such damages.
+
+## Contact Information
+
+### Official Channels
+- Website: [Coming Soon]
+- Email: [Coming Soon]
+- GitHub: https://github.com/[your-username]/YONI-token
+
+### Social Media
+- Twitter: [Coming Soon]
+- Telegram: [Coming Soon]
+- Discord: [Coming Soon]
+
+### Developer Contact
+- Technical Support: [Coming Soon]
+- Business Inquiries: [Coming Soon]
+
+Last Updated: November 2024
