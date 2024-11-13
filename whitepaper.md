@@ -43,3 +43,51 @@ members and civilians worldwide come together as one.
 - Veteran employment support program
 - Sponsor international military events
 - Establish military family support fund
+
+## Technical Specification
+
+### Blockchain Infrastructure
+- Network: Solana
+- Token Standard: SPL Token
+- Contract Address: 6xFLKKRPMY2JEMVypWin4HMuoB81foAFoNT1pJVHBswE
+- Total Supply: 10,000,000,000 YONI
+- Decimals: 9
+- Mint Authority: Disabled (Fixed Supply)
+
+### Technical Features
+- High-speed transactions (65,000 TPS)
+- Low transaction costs (<$0.01)
+- Energy-efficient blockchain
+- Non-upgradeable contract (enhanced security)
+- Fully decentralized operations
+
+## Token Economics
+
+### Token Distribution
+1. Community Pool: 50% (5,000,000,000 YONI)
+   - Initial liquidity provision
+   - Community rewards
+   - Ecosystem development
+
+2. Military Support Fund: 20% (2,000,000,000 YONI)
+   - Veterans support programs
+   - Military family assistance
+   - International military events
+
+3. Development & Marketing: 15% (1,500,000,000 YONI)
+   - Platform development
+   - Marketing initiatives
+   - Partnership programs
+
+4. Reserve Fund: 15% (1,500,000,000 YONI)
+   - Future development
+   - Emergency fund
+   - Market stabilization
+
+### Vesting Schedule
+- Community Pool: Released over 24 months
+- Military Support Fund: Released over 36 months
+- Development & Marketing: Released over 12 months
+- Reserve Fund: Locked for 12 months, then released over 24 months
+
+- 
